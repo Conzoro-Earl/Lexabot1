@@ -12,8 +12,8 @@ exports.run = (client, message, args, level) => {
 				.setThumbnail(client.user.avatarURL)
 				.addField('Commands', `Commands can be found by typing \`${prefix}commands\`.`)
 				.addField('Want to invite me to your Discord?', '[Click here to invite me to your server.](https://discordapp.com/oauth2/authorize?client_id=492871769485475840&scope=bot&permissions=1506142455)')
-				.addField('Need more assistance?', '[Click here to join the official Tsuyo support server](https://discord.gg/3hbeQgY)')
-				.setImage("https://i.imgur.com/QlKiesl.png")
+				.addField('Need more assistance?', '[Click here to join the official Lexa support server](https://discord.gg/btnhEX5)')
+				.setImage("https://i.imgur.com/wypIFry.png")
 
       message.channel.send(embed)
     } else {

@@ -33,7 +33,7 @@ module.exports = async client => {
     });
 }, 28000); */
 
-  client.user.setStatus('online')
+  client.user.setStatus('idle')
   console.log('Finished setting up the bot.')
 
   // Starts the web server/API

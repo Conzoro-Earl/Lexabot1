@@ -21,7 +21,7 @@ const config = {
     noPermissionNotice: 'true',
     deniedChannel: 'denied-suggestions',
 	acceptedChannel: 'accepted-suggestions',
-    welcomeChannel: 'general',
+    welcomeChannel: 'welcome',
     welcomeMessage: 'Welcome to the server {{mention}}!',
     welcomeEnabled: 'true',
     pointsEnabled: 'true',
